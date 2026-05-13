@@ -1,0 +1,13 @@
+
+
+```json
+{
+  "name": "TAAG Angola Airlines",
+  "author": "Rui",
+  "description": "TAAG Angola Airlines Boeing 737-700 for GeoFS",
+  "aircraft": "B737",
+  "texture": "texture.jpg",
+  "thumbnail": "thumbnail.jpg",
+  "registration": "D2-TBJ"
+}
+```
